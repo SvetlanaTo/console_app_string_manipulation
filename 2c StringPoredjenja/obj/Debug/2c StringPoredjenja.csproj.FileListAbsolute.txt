@@ -1,0 +1,5 @@
+D:\Users\pisa\Desktop\RAZNO\2c StringPoredjenja\bin\Debug\2c StringPoredjenja.exe.config
+D:\Users\pisa\Desktop\RAZNO\2c StringPoredjenja\bin\Debug\2c StringPoredjenja.exe
+D:\Users\pisa\Desktop\RAZNO\2c StringPoredjenja\bin\Debug\2c StringPoredjenja.pdb
+D:\Users\pisa\Desktop\RAZNO\2c StringPoredjenja\obj\Debug\2c StringPoredjenja.exe
+D:\Users\pisa\Desktop\RAZNO\2c StringPoredjenja\obj\Debug\2c StringPoredjenja.pdb

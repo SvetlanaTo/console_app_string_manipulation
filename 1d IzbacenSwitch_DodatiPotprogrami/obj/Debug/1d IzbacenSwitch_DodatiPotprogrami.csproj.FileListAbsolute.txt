@@ -1,0 +1,5 @@
+D:\Users\pisa\Desktop\RAZNO\1d IzbacenSwitch_DodatiPotprogrami\bin\Debug\1d IzbacenSwitch_DodatiPotprogrami.exe.config
+D:\Users\pisa\Desktop\RAZNO\1d IzbacenSwitch_DodatiPotprogrami\bin\Debug\1d IzbacenSwitch_DodatiPotprogrami.exe
+D:\Users\pisa\Desktop\RAZNO\1d IzbacenSwitch_DodatiPotprogrami\bin\Debug\1d IzbacenSwitch_DodatiPotprogrami.pdb
+D:\Users\pisa\Desktop\RAZNO\1d IzbacenSwitch_DodatiPotprogrami\obj\Debug\1d IzbacenSwitch_DodatiPotprogrami.exe
+D:\Users\pisa\Desktop\RAZNO\1d IzbacenSwitch_DodatiPotprogrami\obj\Debug\1d IzbacenSwitch_DodatiPotprogrami.pdb

@@ -1,0 +1,5 @@
+D:\Users\pisa\Desktop\RAZNO\1b JednostavanSwitch_dodatEnum\bin\Debug\1b JednostavanSwitch_dodatEnum.exe.config
+D:\Users\pisa\Desktop\RAZNO\1b JednostavanSwitch_dodatEnum\bin\Debug\1b JednostavanSwitch_dodatEnum.exe
+D:\Users\pisa\Desktop\RAZNO\1b JednostavanSwitch_dodatEnum\bin\Debug\1b JednostavanSwitch_dodatEnum.pdb
+D:\Users\pisa\Desktop\RAZNO\1b JednostavanSwitch_dodatEnum\obj\Debug\1b JednostavanSwitch_dodatEnum.exe
+D:\Users\pisa\Desktop\RAZNO\1b JednostavanSwitch_dodatEnum\obj\Debug\1b JednostavanSwitch_dodatEnum.pdb

@@ -1,0 +1,18 @@
+D:\Users\pisa\Desktop\RAZNO\2f StringPoredjenjaCelina\bin\Debug\2f StringPoredjenjaCelina.exe.config
+D:\Users\pisa\Desktop\RAZNO\2f StringPoredjenjaCelina\bin\Debug\2f StringPoredjenjaCelina.exe
+D:\Users\pisa\Desktop\RAZNO\2f StringPoredjenjaCelina\bin\Debug\2f StringPoredjenjaCelina.pdb
+D:\Users\pisa\Desktop\RAZNO\2f StringPoredjenjaCelina\obj\Debug\2f StringPoredjenjaCelina.exe
+D:\Users\pisa\Desktop\RAZNO\2f StringPoredjenjaCelina\obj\Debug\2f StringPoredjenjaCelina.pdb
+D:\vik\RAZNO\2f StringPoredjenjaCelina\bin\Debug\2f StringPoredjenjaCelina.exe.config
+D:\vik\RAZNO\2f StringPoredjenjaCelina\bin\Debug\2f StringPoredjenjaCelina.exe
+D:\vik\RAZNO\2f StringPoredjenjaCelina\bin\Debug\2f StringPoredjenjaCelina.pdb
+D:\vik\RAZNO\2f StringPoredjenjaCelina\obj\Debug\2f StringPoredjenjaCelina.csprojAssemblyReference.cache
+D:\vik\RAZNO\2f StringPoredjenjaCelina\obj\Debug\2f StringPoredjenjaCelina.csproj.CoreCompileInputs.cache
+D:\vik\RAZNO\2f StringPoredjenjaCelina\obj\Debug\2f StringPoredjenjaCelina.exe
+D:\vik\RAZNO\2f StringPoredjenjaCelina\obj\Debug\2f StringPoredjenjaCelina.pdb
+D:\laptop IT\3d\D\vik\Termin8 RAZNO\2f StringPoredjenjaCelina\bin\Debug\2f StringPoredjenjaCelina.exe.config
+D:\laptop IT\3d\D\vik\Termin8 RAZNO\2f StringPoredjenjaCelina\bin\Debug\2f StringPoredjenjaCelina.exe
+D:\laptop IT\3d\D\vik\Termin8 RAZNO\2f StringPoredjenjaCelina\bin\Debug\2f StringPoredjenjaCelina.pdb
+D:\laptop IT\3d\D\vik\Termin8 RAZNO\2f StringPoredjenjaCelina\obj\Debug\2f StringPoredjenjaCelina.csprojAssemblyReference.cache
+D:\laptop IT\3d\D\vik\Termin8 RAZNO\2f StringPoredjenjaCelina\obj\Debug\2f StringPoredjenjaCelina.exe
+D:\laptop IT\3d\D\vik\Termin8 RAZNO\2f StringPoredjenjaCelina\obj\Debug\2f StringPoredjenjaCelina.pdb

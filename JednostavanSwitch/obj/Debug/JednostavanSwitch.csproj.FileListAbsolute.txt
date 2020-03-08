@@ -1,0 +1,6 @@
+D:\Users\pisa\Desktop\RAZNO\JednostavanSwitch\bin\Debug\JednostavanSwitch.exe.config
+D:\Users\pisa\Desktop\RAZNO\JednostavanSwitch\bin\Debug\JednostavanSwitch.exe
+D:\Users\pisa\Desktop\RAZNO\JednostavanSwitch\bin\Debug\JednostavanSwitch.pdb
+D:\Users\pisa\Desktop\RAZNO\JednostavanSwitch\obj\Debug\JednostavanSwitch.csprojResolveAssemblyReference.cache
+D:\Users\pisa\Desktop\RAZNO\JednostavanSwitch\obj\Debug\JednostavanSwitch.exe
+D:\Users\pisa\Desktop\RAZNO\JednostavanSwitch\obj\Debug\JednostavanSwitch.pdb

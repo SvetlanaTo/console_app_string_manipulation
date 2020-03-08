@@ -1,0 +1,5 @@
+D:\Users\pisa\Desktop\RAZNO\1e DodatoPonovnoIzvrsavanje\bin\Debug\1e DodatoPonovnoIzvrsavanje.exe.config
+D:\Users\pisa\Desktop\RAZNO\1e DodatoPonovnoIzvrsavanje\bin\Debug\1e DodatoPonovnoIzvrsavanje.exe
+D:\Users\pisa\Desktop\RAZNO\1e DodatoPonovnoIzvrsavanje\bin\Debug\1e DodatoPonovnoIzvrsavanje.pdb
+D:\Users\pisa\Desktop\RAZNO\1e DodatoPonovnoIzvrsavanje\obj\Debug\1e DodatoPonovnoIzvrsavanje.exe
+D:\Users\pisa\Desktop\RAZNO\1e DodatoPonovnoIzvrsavanje\obj\Debug\1e DodatoPonovnoIzvrsavanje.pdb
